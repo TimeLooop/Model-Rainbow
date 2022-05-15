@@ -1,0 +1,37 @@
+﻿  MyForm.cpp
+D:\Проекты C++\V_F\Model_rainbow\Model_rainbow\MyForm.h(516,4): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+D:\Проекты C++\V_F\Model_rainbow\Model_rainbow\MyForm.h(529,11): warning C4244: =: преобразование "long double" в "float", возможна потеря данных
+D:\Проекты C++\V_F\Model_rainbow\Model_rainbow\MyForm.h(567,17): warning C4244: =: преобразование "long double" в "float", возможна потеря данных
+D:\Проекты C++\V_F\Model_rainbow\Model_rainbow\MyForm.h(568,18): warning C4244: =: преобразование "long double" в "float", возможна потеря данных
+D:\Проекты C++\V_F\Model_rainbow\Model_rainbow\MyForm.h(569,17): warning C4244: =: преобразование "long double" в "float", возможна потеря данных
+D:\Проекты C++\V_F\Model_rainbow\Model_rainbow\MyForm.h(570,18): warning C4244: =: преобразование "long double" в "float", возможна потеря данных
+D:\Проекты C++\V_F\Model_rainbow\Model_rainbow\MyForm.h(571,17): warning C4244: =: преобразование "long double" в "float", возможна потеря данных
+D:\Проекты C++\V_F\Model_rainbow\Model_rainbow\MyForm.h(572,18): warning C4244: =: преобразование "long double" в "float", возможна потеря данных
+D:\Проекты C++\V_F\Model_rainbow\Model_rainbow\MyForm.h(573,17): warning C4244: =: преобразование "long double" в "float", возможна потеря данных
+D:\Проекты C++\V_F\Model_rainbow\Model_rainbow\MyForm.h(574,18): warning C4244: =: преобразование "long double" в "float", возможна потеря данных
+D:\Проекты C++\V_F\Model_rainbow\Model_rainbow\MyForm.h(625,5): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+D:\Проекты C++\V_F\Model_rainbow\Model_rainbow\MyForm.h(641,5): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+D:\Проекты C++\V_F\Model_rainbow\Model_rainbow\MyForm.h(662,10): warning C4244: =: преобразование "long double" в "float", возможна потеря данных
+D:\Проекты C++\V_F\Model_rainbow\Model_rainbow\MyForm.h(684,16): warning C4244: =: преобразование "long double" в "float", возможна потеря данных
+D:\Проекты C++\V_F\Model_rainbow\Model_rainbow\MyForm.h(685,17): warning C4244: =: преобразование "long double" в "float", возможна потеря данных
+D:\Проекты C++\V_F\Model_rainbow\Model_rainbow\MyForm.h(686,16): warning C4244: =: преобразование "long double" в "float", возможна потеря данных
+D:\Проекты C++\V_F\Model_rainbow\Model_rainbow\MyForm.h(687,17): warning C4244: =: преобразование "long double" в "float", возможна потеря данных
+D:\Проекты C++\V_F\Model_rainbow\Model_rainbow\MyForm.h(688,16): warning C4244: =: преобразование "long double" в "float", возможна потеря данных
+D:\Проекты C++\V_F\Model_rainbow\Model_rainbow\MyForm.h(689,17): warning C4244: =: преобразование "long double" в "float", возможна потеря данных
+D:\Проекты C++\V_F\Model_rainbow\Model_rainbow\MyForm.h(690,16): warning C4244: =: преобразование "long double" в "float", возможна потеря данных
+D:\Проекты C++\V_F\Model_rainbow\Model_rainbow\MyForm.h(691,17): warning C4244: =: преобразование "long double" в "float", возможна потеря данных
+D:\Проекты C++\V_F\Model_rainbow\Model_rainbow\MyForm.h(661,13): warning C4101: c1: неиспользованная локальная переменная
+D:\Проекты C++\V_F\Model_rainbow\Model_rainbow\MyForm.h(735,22): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+D:\Проекты C++\V_F\Model_rainbow\Model_rainbow\MyForm.h(754,3): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+D:\Проекты C++\V_F\Model_rainbow\Model_rainbow\MyForm.h(765,10): warning C4244: =: преобразование "long double" в "float", возможна потеря данных
+D:\Проекты C++\V_F\Model_rainbow\Model_rainbow\MyForm.h(783,16): warning C4244: =: преобразование "long double" в "float", возможна потеря данных
+D:\Проекты C++\V_F\Model_rainbow\Model_rainbow\MyForm.h(784,17): warning C4244: =: преобразование "long double" в "float", возможна потеря данных
+D:\Проекты C++\V_F\Model_rainbow\Model_rainbow\MyForm.h(785,16): warning C4244: =: преобразование "long double" в "float", возможна потеря данных
+D:\Проекты C++\V_F\Model_rainbow\Model_rainbow\MyForm.h(786,17): warning C4244: =: преобразование "long double" в "float", возможна потеря данных
+D:\Проекты C++\V_F\Model_rainbow\Model_rainbow\MyForm.h(787,16): warning C4244: =: преобразование "long double" в "float", возможна потеря данных
+D:\Проекты C++\V_F\Model_rainbow\Model_rainbow\MyForm.h(788,17): warning C4244: =: преобразование "long double" в "float", возможна потеря данных
+D:\Проекты C++\V_F\Model_rainbow\Model_rainbow\MyForm.h(789,16): warning C4244: =: преобразование "long double" в "float", возможна потеря данных
+D:\Проекты C++\V_F\Model_rainbow\Model_rainbow\MyForm.h(790,17): warning C4244: =: преобразование "long double" в "float", возможна потеря данных
+D:\Проекты C++\V_F\Model_rainbow\Model_rainbow\MyForm.h(764,13): warning C4101: c1: неиспользованная локальная переменная
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Model_rainbow.vcxproj -> D:\Проекты C++\V_F\Model_rainbow\Debug\Model_rainbow.exe

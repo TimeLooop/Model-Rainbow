@@ -1,0 +1,3 @@
+D:\Проекты C++\V_F\Model_rainbow\Model_rainbow\Debug\Model_rainbow.vcxproj.AssemblyReference.cache
+D:\Проекты C++\V_F\Model_rainbow\Model_rainbow\Debug\Modelrainbow.MyForm.resources
+D:\Проекты C++\V_F\Model_rainbow\Model_rainbow\Debug\Model_rainbow.vcxproj.GenerateResource.cache
